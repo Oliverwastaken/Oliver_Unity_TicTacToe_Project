@@ -1,2 +1,3 @@
 # Oliver_Unity_TicTacToe_Project
-Testing
+
+Repository for Olivers TicTacToe project in Unity
